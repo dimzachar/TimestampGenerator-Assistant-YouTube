@@ -24,7 +24,7 @@ Please be aware that using OpenAI's API key will incur costs. Using OpenAI's GPT
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/YouTube-Transcript-Summarizer.git
+git clone https://github.com/dimzachar/TimestampGenerator-Assistant-YouTube.git
 cd TimestampGenerator-Assistant-YouTube
 ```
 
