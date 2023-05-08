@@ -23,8 +23,9 @@ Please be aware that using OpenAI's API key will incur costs. Using OpenAI's GPT
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/YouTube-Transcript-Summarizer.git`
-`cd TimestampGenerator-Assistant-YouTube`
+```
+git clone https://github.com/your-username/YouTube-Transcript-Summarizer.git
+cd TimestampGenerator-Assistant-YouTube```
 
 
 ## Usage
@@ -35,7 +36,9 @@ OPENAI_API_KEY=your_api_key_here
 
 2. Run the script, passing the YouTube video ID as a command-line argument:
 
-`python app.py <video_id>'
+```
+python app.py <video_id>
+```
 
 ## Output
 
