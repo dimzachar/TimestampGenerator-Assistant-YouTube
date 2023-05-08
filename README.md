@@ -43,7 +43,7 @@ python app.py <video_id>
 
 ## Output
 
-The timestamped summary and ultra-summary will be printed to the console and saved to a text file in the `issues` folder, named `video_id.txt`.
+The timestamped summary and ultra-summary will be printed to the console and saved to a text file in the `timestamps` folder, named `video_id.txt`.
 
 
 ## Function Overview
